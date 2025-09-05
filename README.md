@@ -25,7 +25,7 @@ Este projeto foi desenvolvido com os seguintes objetivos principais:
 ## 🛠️ Metodologia
 1. **Organização dos dados**  
    - Foram utilizadas três planilhas CSV de vendas (AliExpress, Etsy e Shopee).  
-   - Os arquivos foram organizados na pasta `/raw_data`.  
+   - Os arquivos foram organizados na pasta `/data/raw_data`.  
    - Os dados passaram por uma análise exploratória inicial (ex.: cálculo de idades).  
 
 2. **Uso de IA para análise**  
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido com os seguintes objetivos principais:
    - Resultados foram validados e comparados entre plataformas.  
 
 3. **Documentação**  
-   - Os **insights** foram registrados no arquivo `/docs/insights.md`.  
+   - Os **insights** foram registrados no arquivo `/insights/insights.md`.  
    - O repositório foi estruturado para facilitar leitura e replicação por terceiros.  
 
    ## 📈 Insights Obtidos
