@@ -1,15 +1,3 @@
-# Caracteristicas
-- A empresa foca apenas em fabricacao de consoles, deixando a distribuicao e venda para terceiros.
-- Os produtos sao vendidos de maneira global
-
-
-# Objetivos
-
-- [  ] Consolidar todas as bases de terceiros para realizar uma analise
-- [  ] Transformar dados de vendas e transformar em informacoes relevantes para a fabricante
-- [  ] Quais sao os produtos mais populares em cada pais
-- [  ] Como otimizar o processo de transporte e logistica ate o momento da venda
-
 # 📊 Projeto: Análise de Vendas com IA
 
 Este projeto foi desenvolvido como parte do **Desafio da DIO**, com o objetivo de aplicar conceitos de **Inteligência Artificial** e **engenharia de prompts** na análise de dados de vendas.  
